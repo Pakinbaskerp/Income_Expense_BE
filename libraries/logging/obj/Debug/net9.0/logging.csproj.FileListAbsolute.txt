@@ -1,0 +1,12 @@
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\libraries\logging\bin\Debug\net9.0\logging.deps.json
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\libraries\logging\bin\Debug\net9.0\logging.dll
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\libraries\logging\bin\Debug\net9.0\logging.pdb
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\libraries\logging\obj\Debug\net9.0\logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\libraries\logging\obj\Debug\net9.0\logging.AssemblyInfoInputs.cache
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\libraries\logging\obj\Debug\net9.0\logging.AssemblyInfo.cs
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\libraries\logging\obj\Debug\net9.0\logging.csproj.CoreCompileInputs.cache
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\libraries\logging\obj\Debug\net9.0\logging.dll
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\libraries\logging\obj\Debug\net9.0\refint\logging.dll
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\libraries\logging\obj\Debug\net9.0\logging.pdb
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\libraries\logging\obj\Debug\net9.0\ref\logging.dll
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\libraries\logging\obj\Debug\net9.0\logging.csproj.AssemblyReference.cache

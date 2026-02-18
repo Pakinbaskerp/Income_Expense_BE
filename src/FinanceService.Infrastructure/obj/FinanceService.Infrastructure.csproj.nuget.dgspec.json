@@ -1,0 +1,404 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Infrastructure\\FinanceService.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\libraries\\exception\\exception.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\libraries\\exception\\exception.csproj",
+        "projectName": "exception",
+        "projectPath": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\libraries\\exception\\exception.csproj",
+        "packagesPath": "C:\\Users\\PakinPaulRaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\libraries\\exception\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PakinPaulRaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\libraries\\logging\\logging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\libraries\\logging\\logging.csproj",
+        "projectName": "logging",
+        "projectPath": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\libraries\\logging\\logging.csproj",
+        "packagesPath": "C:\\Users\\PakinPaulRaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\libraries\\logging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PakinPaulRaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Application\\FinanceService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Application\\FinanceService.Application.csproj",
+        "projectName": "FinanceService.Application",
+        "projectPath": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Application\\FinanceService.Application.csproj",
+        "packagesPath": "C:\\Users\\PakinPaulRaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PakinPaulRaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\libraries\\exception\\exception.csproj": {
+                "projectPath": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\libraries\\exception\\exception.csproj"
+              },
+              "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\libraries\\logging\\logging.csproj": {
+                "projectPath": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\libraries\\logging\\logging.csproj"
+              },
+              "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Domain\\FinanceService.Domain.csproj": {
+                "projectPath": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Domain\\FinanceService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Domain\\FinanceService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Domain\\FinanceService.Domain.csproj",
+        "projectName": "FinanceService.Domain",
+        "projectPath": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Domain\\FinanceService.Domain.csproj",
+        "packagesPath": "C:\\Users\\PakinPaulRaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PakinPaulRaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Infrastructure\\FinanceService.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Infrastructure\\FinanceService.Infrastructure.csproj",
+        "projectName": "FinanceService.Infrastructure",
+        "projectPath": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Infrastructure\\FinanceService.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\PakinPaulRaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PakinPaulRaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\libraries\\exception\\exception.csproj": {
+                "projectPath": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\libraries\\exception\\exception.csproj"
+              },
+              "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\libraries\\logging\\logging.csproj": {
+                "projectPath": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\libraries\\logging\\logging.csproj"
+              },
+              "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Application\\FinanceService.Application.csproj": {
+                "projectPath": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Application\\FinanceService.Application.csproj"
+              },
+              "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Domain\\FinanceService.Domain.csproj": {
+                "projectPath": "C:\\Users\\PakinPaulRaj\\Documents\\project\\FinanceSystem\\src\\FinanceService.Domain\\FinanceService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.14.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.14.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

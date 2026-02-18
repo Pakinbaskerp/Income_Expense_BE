@@ -1,0 +1,11 @@
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\src\FinanceService.Domain\bin\Debug\net9.0\FinanceService.Domain.deps.json
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\src\FinanceService.Domain\bin\Debug\net9.0\FinanceService.Domain.dll
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\src\FinanceService.Domain\bin\Debug\net9.0\FinanceService.Domain.pdb
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\src\FinanceService.Domain\obj\Debug\net9.0\FinanceService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\src\FinanceService.Domain\obj\Debug\net9.0\FinanceService.Domain.AssemblyInfoInputs.cache
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\src\FinanceService.Domain\obj\Debug\net9.0\FinanceService.Domain.AssemblyInfo.cs
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\src\FinanceService.Domain\obj\Debug\net9.0\FinanceService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\src\FinanceService.Domain\obj\Debug\net9.0\FinanceService.Domain.dll
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\src\FinanceService.Domain\obj\Debug\net9.0\refint\FinanceService.Domain.dll
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\src\FinanceService.Domain\obj\Debug\net9.0\FinanceService.Domain.pdb
+C:\Users\PakinPaulRaj\Documents\project\FinanceSystem\src\FinanceService.Domain\obj\Debug\net9.0\ref\FinanceService.Domain.dll
